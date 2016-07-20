@@ -1,0 +1,11 @@
+C:\Desenvolvimento\ASP.NET\Console\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.exe.config
+C:\Desenvolvimento\ASP.NET\Console\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.exe
+C:\Desenvolvimento\ASP.NET\Console\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.pdb
+C:\Desenvolvimento\ASP.NET\Console\RegularExpressionReadText\RegularExpressionReadText\obj\Debug\RegularExpressionReadText.exe
+C:\Desenvolvimento\ASP.NET\Console\RegularExpressionReadText\RegularExpressionReadText\obj\Debug\RegularExpressionReadText.pdb
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.exe.config
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\obj\Debug\RegularExpressionReadText.exe
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\obj\Debug\RegularExpressionReadText.pdb
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.exe
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\bin\Debug\RegularExpressionReadText.pdb
+C:\Desenvolvimento\GitHub\RegularExpressionReadText\RegularExpressionReadText\obj\Debug\RegularExpressionReadText.csprojResolveAssemblyReference.cache
